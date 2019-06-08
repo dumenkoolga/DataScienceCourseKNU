@@ -15,5 +15,5 @@ print (d)
 
 e <- F #logic 
 print (e)
-```{R}
+```
 
